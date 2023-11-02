@@ -1,2 +1,1 @@
-# PrepCourseHenry-s
-este es un repositorio de prueba del Mod2 del prepcourse de Hnery
+este proyecto e suna prueba de como clonar un repositorio
